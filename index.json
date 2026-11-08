@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "cvm-measure",
+  "versions": [
+    {
+      "commit": "4f1303e281986dee98e7e098db594779f040a190",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:05:59.063310+00:00"
+    }
+  ]
+}
